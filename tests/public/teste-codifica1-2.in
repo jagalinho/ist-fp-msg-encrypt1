@@ -1,0 +1,4 @@
+chave = (('a', 'b', 'c', 'd', 'e'), ('f', 'g', 'h', 'i', 'j'), (' ', 'l', 'm', 'n', 'o'), ('p', 'q', 'r', 's', 't'), ('u', 'v', 'x', 'z', '.'))
+cad = 'fundamentos da programacao'
+cad_encriptada = codifica1(cad, chave)
+cad_encriptada

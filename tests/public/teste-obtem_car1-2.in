@@ -1,0 +1,4 @@
+chave = (('a', 'b', 'c', 'd', 'e'), ('f', 'g', 'h', 'i', 'j'), (' ', 'l', 'm', 'n', 'o'), ('p', 'q', 'r', 's', 't'), ('u', 'v', 'x', 'z', '.'))
+cod = '00'
+car = obtem_car1(cod , chave)
+car

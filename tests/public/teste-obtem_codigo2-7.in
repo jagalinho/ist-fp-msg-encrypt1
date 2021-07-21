@@ -1,0 +1,4 @@
+chave = (('A', 'B', 'C', 'D'), ('E', 'F', 'G', 'H'), ('I', 'J', 'L', 'M'), ('N', 'O', 'P', 'Q'), ('R',))
+car = 'R'
+cod = obtem_codigo2(car, chave)
+cod

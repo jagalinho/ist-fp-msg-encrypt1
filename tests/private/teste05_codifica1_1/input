@@ -1,0 +1,5 @@
+chave = ((' ', 'A', 'B', 'C', 'D'), ('E', 'F', 'G', 'H', 'I'), ('J', 'L', 'M', 'N', 'O'), ('P', 'Q', 'R', 'S', 'T'), ('U', 'V', 'X', 'Z', 'W'))
+cad = 'WHAT IS THE CODED PHRASE'
+cad_encriptada = codifica1(cad, chave)
+cad_encriptada
+

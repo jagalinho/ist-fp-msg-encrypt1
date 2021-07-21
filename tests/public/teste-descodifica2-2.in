@@ -1,0 +1,4 @@
+chave = (('A', 'B', 'C', 'D', 'E'), ('F', 'G', 'H', 'I', 'J'), (' ', 'L', 'M', 'N', 'O'), ('P', 'Q', 'R', 'S', 'T'), ('U', 'V', 'X', 'Z'))
+cad_encriptada = '1040230300220423342433200300203032241132002200020024'
+cad_desencriptada = descodifica2(cad_encriptada, chave)
+cad_desencriptada
